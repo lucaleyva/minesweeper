@@ -1,0 +1,22 @@
+{
+  "name": "minesweeper-project",
+  "version": "1.0.0",
+  "description": "minesweeper game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaleyva/minesweeper.git"
+  },
+  "author": "Luca Leyva and Marc Monteleone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucaleyva/minesweeper/issues"
+  },
+  "homepage": "https://github.com/lucaleyva/minesweeper#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
